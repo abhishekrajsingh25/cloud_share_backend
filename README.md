@@ -169,7 +169,7 @@ Steps to contribute:
 
 ## 📸 Demo
 
-> Backend Code: Click <a href="https://github.com/abhishekrajsingh25/cloud_share_backend" >Here</a>
+> Frontend Code: Click <a href="https://github.com/abhishekrajsingh25/Cloud-Share" >Here</a>
 
 ---
 
